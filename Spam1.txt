@@ -1,0 +1,38 @@
+Payment inf
+
+AmaZon	Order Confirmation
+Hello,
+
+Thank you for shopping with us. Your order has been confirmed and is being prepared for shipment. Below are your order details.
+
+Order Placed: November 20, 2026
+Order Number: 453-7901-55091
+Order Total: $278.97
+Payment Method : PayPal	Ship To:
+[Hidden Email]
+13 Main Street
+Antown, ST 1345
+Items Ordered	Price
+Apple EarPods Headphones with USB-C Plug
+Wired Ear Buds with Built-in Remote to Control Music, Phone Calls, and Volume
+Qty: 1	$49.00
+Apple AirPods Pro 3 Wireless Earbuds
+Active Noise Cancellation | Live Translation, Heart Rate Sensing, Hearing Aid Feature, Bluetooth Headphones, Spatial Audio, USB-C Charging
+Qty: 1	$199.00
+Amazon Fire TV Stick 4K Plus
+AI-powered Fire TV Search, Wi-Fi 6, stream hundreds of thousands of movies and shows, free & live TV, find shows faster with Alexa+
+Qty: 1	$29.99
+Item Subtotal:	$277.99
+Shipping & Handling:	$0.00
+Estimated Tax:	$0.98
+Order Total:	$278.97
+If You have any confusion Or any question about this invoice
+
+                      Please contact us at here +1
+(843)473-1435
+
+This email was sent from a notification-only address that cannot accept incoming email. Please do not reply to this message.
+
+© 2026 Amazon.com, Inc. or its affiliates. All rights reserved.
+
+Amazon .com, 410 Terry Avenue North , Seattle ,  WA 98109  -5210
